@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Nic Haralambous - [@nicharry](https://twitter.com/nicharry)
+	Sam Beckbessinger - [@beckbessinger](https://twitter.com/beckbessinger)
+	Simon Dingle - [https://twitter.com/simondingle]
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Bootstrap
+    Normalize.css, jQuery, Modernizr
